@@ -1,0 +1,14 @@
+{
+  "name": "discobot",
+  "version": "1.0.0",
+  "description": "simple bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavel KLON",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
+}
